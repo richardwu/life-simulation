@@ -1,4 +1,4 @@
 # life-simulation
 Java parody simulation of Conway's game of life. Custom sprites, maps, graphics, and game mechanics. 
 
-Circa 2014
+Circa January 2014
